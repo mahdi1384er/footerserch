@@ -1,0 +1,31 @@
+{
+  "search": [
+    {
+      "id": 1,
+      "title": "اجاره ویلا جنگلی",
+      "path": "/Jungle",
+      "img": "/img/imgs/6.svg"
+    },
+    {
+      "id": 2,
+      "title": "اجاره کلبه استخردار",
+      "path": "/Cottage",
+      "img": "/img/imgs/8.svg"
+    },
+    {
+      "id": 3,
+      "title": "اجاره ویلا ساحلی",
+      "path": "/Coastal"
+    },
+    {
+      "id": 4,
+      "title": "اجاره سوئیت",
+      "path": "/"
+    },
+    {
+      "id": 5,
+      "title": "اجاره ویلا جکوزی دار",
+      "path": "/"
+    }
+  ]
+}
